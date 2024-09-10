@@ -12,7 +12,6 @@ int main()
     cin >> x >> y >> z;
     int result = x + y + z ;
     cout << result << endl ;
-     
     return 0;
 }
 
